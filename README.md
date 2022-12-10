@@ -1,5 +1,5 @@
-# SahilSoni
+# Md Danish
  
- SSONIG1 portfolio website 🤩
+ Md Danish portfolio website 🤩
  
- :-: https://ssonig1.github.io/SahilSoni/
+ :-: https://md-danish-eng.github.io/Md-Danish-portfolio/
